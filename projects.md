@@ -1,0 +1,11 @@
+- Build a "Git" clone.
+- Build a SQL database.
+- Build a Key/Value Database.
+- Build a Time-series database.
+- Build a Search engine.
+- Build Distributed Cache Service.
+- Build a Message Queue.
+- Build something like Docker.
+- Build a Pub/Sub Server.
+- Build Collaborative Editor|Drawing app.
+- Build a Redis Clone.
