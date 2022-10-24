@@ -1,0 +1,37 @@
+- Review OOP.
+- PSR-2, PSR-12.
+- Security
+  - Preventing SQL Injection.
+  - Preventing XSS.
+  - Securely Upload Files.
+  - Preventing CSRF.
+  - Session Fixation & Hijacking.
+  - Data Filtering, Sanitizing, and Validation.
+  - Password Hash.
+  - HTTP Headers.
+- MVC Overview.
+- Composer Overview.
+- Learn Testing.
+- SOLID Principles.
+- Design Patterns.
+- Building Packages.
+- Write Framework Components From Scratch.
+  - IoC Container package.
+  - Router package.
+  - Template engine package.
+  - Validator package.
+  - Pagination package.
+  - Database package (Review PDO).
+  - ORM package.
+  - Collection package.
+  - CLI package.
+  - Event Dispatcher package.
+  - Config package.
+  - Session package.
+  - Cookie package.
+  - Filesystem package.
+  - Cache package (with Redis, File, and Database).
+  - Log package.
+  - Queue package.
+- The Clean Architecture in PHP (Book)
+- Build URL Shortner project.
